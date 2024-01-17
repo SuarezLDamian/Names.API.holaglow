@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "holaglow", "holaglow.csproj", "{4433CB1E-E800-4959-9570-CB00172D9409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4433CB1E-E800-4959-9570-CB00172D9409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4433CB1E-E800-4959-9570-CB00172D9409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4433CB1E-E800-4959-9570-CB00172D9409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4433CB1E-E800-4959-9570-CB00172D9409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {237CC200-506A-445D-8D9E-07EA2C2B03F8}
+	EndGlobalSection
+EndGlobal
